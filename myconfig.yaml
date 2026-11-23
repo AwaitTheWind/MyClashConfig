@@ -1,0 +1,413 @@
+proxy-groups:
+  - name: "🚀 节点选择"
+    type: select
+    proxies:
+      - "🇭🇰 香港节点"
+      - "🇺🇸 美国节点"
+      - "🇹🇼 台湾节点"
+      - "🇸🇬 狮城节点"
+      - "🇯🇵 日本节点"
+      - "🇰🇷 韩国节点"
+      - "🌍 其他节点"
+      - "🚀 手动切换"
+      - "DIRECT"
+
+  - name: "💬 AI服务"
+    type: select
+    proxies:
+      - "🇺🇸 美国节点"
+      - "🇹🇼 台湾节点"
+      - "🇸🇬 狮城节点"
+      - "🇯🇵 日本节点"
+      - "🇰🇷 韩国节点"
+      - "🌍 其他节点"
+      - "🚀 手动切换"
+
+  - name: "🐯 老虎证券"
+    type: select
+    proxies:
+      - "DIRECT"
+      - "🚀 节点选择"
+      - "🇭🇰 香港节点"
+      - "🇺🇸 美国节点"
+      - "🇹🇼 台湾节点"
+      - "🇸🇬 狮城节点"
+      - "🇯🇵 日本节点"
+      - "🇰🇷 韩国节点"
+      - "🌍 其他节点"
+      - "🚀 手动切换"
+
+  - name: "🐮 富途牛牛"
+    type: select
+    proxies:
+      - "DIRECT"
+      - "🚀 节点选择"
+      - "🇭🇰 香港节点"
+      - "🇺🇸 美国节点"
+      - "🇹🇼 台湾节点"
+      - "🇸🇬 狮城节点"
+      - "🇯🇵 日本节点"
+      - "🇰🇷 韩国节点"
+      - "🌍 其他节点"
+      - "🚀 手动切换"
+
+  - name: "📹 油管视频"
+    type: select
+    proxies:
+      - "🚀 节点选择"
+      - "🇭🇰 香港节点"
+      - "🇺🇸 美国节点"
+      - "🇹🇼 台湾节点"
+      - "🇸🇬 狮城节点"
+      - "🇯🇵 日本节点"
+      - "🇰🇷 韩国节点"
+      - "🌍 其他节点"
+      - "🚀 手动切换"
+
+  - name: "🎥 奈飞视频"
+    type: select
+    proxies:
+      - "🚀 节点选择"
+      - "🇭🇰 香港节点"
+      - "🇺🇸 美国节点"
+      - "🇹🇼 台湾节点"
+      - "🇸🇬 狮城节点"
+      - "🇯🇵 日本节点"
+      - "🇰🇷 韩国节点"
+      - "🌍 其他节点"
+      - "🚀 手动切换"
+
+  - name: "📺 哔哩哔哩"
+    type: select
+    proxies:
+      - "🎯 全球直连"
+      - "🇭🇰 香港节点"
+      - "🇹🇼 台湾节点"
+
+  - name: "🌏 国内媒体"
+    type: select
+    proxies:
+      - "DIRECT"
+      - "🇭🇰 香港节点"
+      - "🇹🇼 台湾节点"
+      - "🇸🇬 狮城节点"
+      - "🇯🇵 日本节点"
+      - "🚀 手动切换"
+
+  - name: "🌍 国外媒体"
+    type: select
+    proxies:
+      - "🚀 节点选择"
+      - "🇭🇰 香港节点"
+      - "🇺🇸 美国节点"
+      - "🇹🇼 台湾节点"
+      - "🇸🇬 狮城节点"
+      - "🇯🇵 日本节点"
+      - "🇰🇷 韩国节点"
+      - "🌍 其他节点"
+      - "🚀 手动切换"
+      - "DIRECT"
+
+  - name: "📲 电报消息"
+    type: select
+    proxies:
+      - "🚀 节点选择"
+      - "🇭🇰 香港节点"
+      - "🇺🇸 美国节点"
+      - "🇹🇼 台湾节点"
+      - "🇸🇬 狮城节点"
+      - "🇯🇵 日本节点"
+      - "🇰🇷 韩国节点"
+      - "🌍 其他节点"
+      - "🚀 手动切换"
+
+  - name: "📢 谷歌服务"
+    type: select
+    proxies:
+      - "🚀 节点选择"
+      - "🇭🇰 香港节点"
+      - "🇺🇸 美国节点"
+      - "🇹🇼 台湾节点"
+      - "🇸🇬 狮城节点"
+      - "🇯🇵 日本节点"
+      - "🇰🇷 韩国节点"
+      - "🌍 其他节点"
+      - "🚀 手动切换"
+
+  - name: "🍎 苹果服务"
+    type: select
+    proxies:
+      - "DIRECT"
+      - "🚀 节点选择"
+      - "🇭🇰 香港节点"
+      - "🇺🇸 美国节点"
+      - "🇹🇼 台湾节点"
+      - "🇸🇬 狮城节点"
+      - "🇯🇵 日本节点"
+      - "🇰🇷 韩国节点"
+      - "🌍 其他节点"
+      - "🚀 手动切换"
+
+  - name: "Ⓜ️ 微软服务"
+    type: select
+    proxies:
+      - "DIRECT"
+      - "🚀 节点选择"
+      - "🇭🇰 香港节点"
+      - "🇺🇸 美国节点"
+      - "🇹🇼 台湾节点"
+      - "🇸🇬 狮城节点"
+      - "🇯🇵 日本节点"
+      - "🇰🇷 韩国节点"
+      - "🌍 其他节点"
+      - "🚀 手动切换"
+
+  - name: "🎮 游戏平台"
+    type: select
+    proxies:
+      - "DIRECT"
+      - "🚀 节点选择"
+      - "🇭🇰 香港节点"
+      - "🇺🇸 美国节点"
+      - "🇹🇼 台湾节点"
+      - "🇸🇬 狮城节点"
+      - "🇯🇵 日本节点"
+      - "🇰🇷 韩国节点"
+      - "🌍 其他节点"
+      - "🚀 手动切换"
+
+  - name: "🎯 全球直连"
+    type: select
+    proxies:
+      - "DIRECT"
+      - "🚀 节点选择"
+      - "🚀 手动切换"
+
+  - name: "🛑 广告拦截"
+    type: select
+    proxies:
+      - "REJECT"
+      - "DIRECT"
+
+  - name: "🇭🇰 香港节点"
+    type: select
+    include-all: true
+    filter: "(🇭🇰|\\.hk|HK|香港|港)"
+
+  - name: "🇺🇸 美国节点"
+    type: select
+    include-all: true
+    filter: "(🇺🇸|\\.us|US|美国|美)"
+
+  - name: "🇹🇼 台湾节点"
+    type: select
+    include-all: true
+    filter: "(🇹🇼|\\.tw|TW|台湾|台)"
+
+  - name: "🇸🇬 狮城节点"
+    type: select
+    include-all: true
+    filter: "(🇸🇬|\\.sg|SG|新加坡|狮城|坡)"
+
+  - name: "🇯🇵 日本节点"
+    type: select
+    include-all: true
+    filter: "(🇯🇵|\\.jp|JP|日本|日)"
+
+  - name: "🇰🇷 韩国节点"
+    type: select
+    include-all: true
+    filter: "(🇰🇷|\\.kr|KR|韩国|韩)"
+
+  - name: "🌍 其他节点"
+    type: select
+    include-all: true
+    filter: "^(?!.*(🇭🇰|\\.hk|HK|香港|港|🇺🇸|\\.us|US|美国|美|🇹🇼|\\.tw|TW|台湾|台|🇸🇬|\\.sg|SG|新加坡|狮城|坡|🇯🇵|\\.jp|JP|日本|日|🇰🇷|\\.kr|KR|韩国|韩)).*$"
+
+  - name: "🚀 手动切换"
+    type: select
+    include-all: true
+
+rule-providers:
+  AI:
+    type: http
+    behavior: classical
+    format: yaml
+    interval: 86400
+    proxy: "🚀 节点选择"
+    url: "https://cdn.jsdelivr.net/gh/VPSDance/ai-proxy-rules@main/rules/clash/global.yaml"
+    path: ./ruleset/AI.yaml
+
+  TigerTrade:
+    type: http
+    behavior: classical
+    format: yaml
+    interval: 86400
+    proxy: "🚀 节点选择"
+    url: "https://raw.githubusercontent.com/proxyBug/tigertrade-moomoo-rules/main/rule/Clash/TigerTrade.yaml"
+    path: ./ruleset/TigerTrade.yaml
+
+  Moomoo:
+    type: http
+    behavior: classical
+    format: yaml
+    interval: 86400
+    proxy: "🚀 节点选择"
+    url: "https://raw.githubusercontent.com/proxyBug/tigertrade-moomoo-rules/main/rule/Clash/Moomoo.yaml"
+    path: ./ruleset/Moomoo.yaml
+
+  YouTube:
+    type: http
+    behavior: classical
+    format: yaml
+    interval: 86400
+    proxy: "🚀 节点选择"
+    url: "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/YouTube/YouTube_No_Resolve.yaml"
+    path: ./ruleset/YouTube.yaml
+
+  Netflix:
+    type: http
+    behavior: classical
+    format: yaml
+    interval: 86400
+    proxy: "🚀 节点选择"
+    url: "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Netflix/Netflix_Classical_No_Resolve.yaml"
+    path: ./ruleset/Netflix.yaml
+
+  Bilibili:
+    type: http
+    behavior: classical
+    format: yaml
+    interval: 86400
+    proxy: "🚀 节点选择"
+    url: "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/BiliBili/BiliBili_No_Resolve.yaml"
+    path: ./ruleset/Bilibili.yaml
+
+  ChinaMedia:
+    type: http
+    behavior: classical
+    format: yaml
+    interval: 86400
+    proxy: "🚀 节点选择"
+    url: "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/ChinaMedia/ChinaMedia_No_Resolve.yaml"
+    path: ./ruleset/ChinaMedia.yaml
+
+  GlobalMedia:
+    type: http
+    behavior: classical
+    format: yaml
+    interval: 86400
+    proxy: "🚀 节点选择"
+    url: "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/GlobalMedia/GlobalMedia_No_Resolve.yaml"
+    path: ./ruleset/GlobalMedia.yaml
+
+  Telegram:
+    type: http
+    behavior: classical
+    format: yaml
+    interval: 86400
+    proxy: "🚀 节点选择"
+    url: "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Telegram/Telegram_No_Resolve.yaml"
+    path: ./ruleset/Telegram.yaml
+
+  Google:
+    type: http
+    behavior: classical
+    format: yaml
+    interval: 86400
+    proxy: "🚀 节点选择"
+    url: "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Google/Google_No_Resolve.yaml"
+    path: ./ruleset/Google.yaml
+
+  Apple:
+    type: http
+    behavior: classical
+    format: yaml
+    interval: 86400
+    proxy: "🚀 节点选择"
+    url: "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Apple/Apple_Classical_No_Resolve.yaml"
+    path: ./ruleset/Apple.yaml
+
+  Microsoft:
+    type: http
+    behavior: classical
+    format: yaml
+    interval: 86400
+    proxy: "🚀 节点选择"
+    url: "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Microsoft/Microsoft.yaml"
+    path: ./ruleset/Microsoft.yaml
+
+  OneDrive:
+    type: http
+    behavior: classical
+    format: yaml
+    interval: 86400
+    proxy: "🚀 节点选择"
+    url: "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/OneDrive/OneDrive.yaml"
+    path: ./ruleset/OneDrive.yaml
+
+  Game:
+    type: http
+    behavior: classical
+    format: yaml
+    interval: 86400
+    proxy: "🚀 节点选择"
+    url: "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Game/Game_No_Resolve.yaml"
+    path: ./ruleset/Game.yaml
+
+  BanAD:
+    type: http
+    behavior: classical
+    format: text
+    interval: 86400
+    proxy: "🚀 节点选择"
+    url: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanAD.list"
+    path: ./ruleset/BanAD.yaml
+
+  BanProgramAD:
+    type: http
+    behavior: classical
+    format: text
+    interval: 86400
+    proxy: "🚀 节点选择"
+    url: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanProgramAD.list"
+    path: ./ruleset/BanProgramAD.yaml
+
+  ChinaDomain:
+    type: http
+    behavior: domain
+    format: yaml
+    interval: 86400
+    proxy: "🚀 节点选择"
+    url: "https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/direct.txt"
+    path: ./ruleset/ChinaDomain.yaml
+
+rules:
+  - DOMAIN-SUFFIX,local,DIRECT
+  - IP-CIDR,127.0.0.0/8,DIRECT,no-resolve
+  - IP-CIDR,10.0.0.0/8,DIRECT,no-resolve
+  - IP-CIDR,172.16.0.0/12,DIRECT,no-resolve
+  - IP-CIDR,192.168.0.0/16,DIRECT,no-resolve
+  - IP-CIDR,100.64.0.0/10,DIRECT,no-resolve
+  - IP-CIDR6,::1/128,DIRECT,no-resolve
+  - IP-CIDR6,fc00::/7,DIRECT,no-resolve
+  - IP-CIDR6,fe80::/10,DIRECT,no-resolve
+  - RULE-SET,BanAD,🛑 广告拦截
+  - RULE-SET,BanProgramAD,🛑 广告拦截
+  - RULE-SET,AI,💬 AI服务
+  - RULE-SET,TigerTrade,🐯 老虎证券
+  - RULE-SET,Moomoo,🐮 富途牛牛
+  - RULE-SET,YouTube,📹 油管视频
+  - RULE-SET,Netflix,🎥 奈飞视频
+  - RULE-SET,Bilibili,📺 哔哩哔哩
+  - RULE-SET,ChinaMedia,🌏 国内媒体
+  - RULE-SET,GlobalMedia,🌍 国外媒体
+  - RULE-SET,Telegram,📲 电报消息
+  - RULE-SET,Google,📢 谷歌服务
+  - RULE-SET,Apple,🍎 苹果服务
+  - RULE-SET,Microsoft,Ⓜ️ 微软服务
+  - RULE-SET,OneDrive,Ⓜ️ 微软服务
+  - RULE-SET,Game,🎮 游戏平台
+  - RULE-SET,ChinaDomain,🎯 全球直连
+  - GEOIP,CN,🎯 全球直连
+  - MATCH,🚀 节点选择
