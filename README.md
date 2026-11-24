@@ -4,17 +4,17 @@ Clash Verge / FlClash / Clash Meta 覆写脚本与 YAML 配置。
 
 ## 文件说明
 
-- `myconfig.js`：JavaScript 覆写脚本（用于 Clash Verge / FlClash 的 Script 覆写）
-- `myconfig.yaml`：直接可用的 YAML 配置片段（proxy-groups + rule-providers + rules）
+- `MyConfig.js`：JavaScript 覆写脚本（用于 Clash Verge / FlClash 的 Script 覆写）
+- `MyConfig.yaml`：直接可用的 YAML 配置片段（proxy-groups + rule-providers + rules）
 
 ## 使用方法
 
 ### JavaScript 脚本（推荐）
-1. 复制 `myconfig.js` 内容到客户端的 **Script / JavaScript 覆写** 功能中。
+1. 复制 `MyConfig.js` 内容到客户端的 **Script / JavaScript 覆写** 功能中。
 2. 启用覆写并重新加载配置。
 
 ### YAML 片段
-可以把 `myconfig.yaml` 的内容合并到你的完整 Clash 配置中（或使用 Merge 功能）。
+可以把 `MyConfig.yaml` 的内容合并到你的完整 Clash 配置中（或使用 Merge 功能）。
 
 > 注意：JS 脚本会**完全覆盖** `proxy-groups`、`rule-providers` 和 `rules` 字段。请确保订阅已提供基础节点（proxies）。
 
